@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "GaJLoEuMGnP5ofXvuweAI4wx06U=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "ddf22928ea3c56eb4292a0adbbf5001b1e8e7d0d",
+			"revisionTime": "2018-10-05T18:17:28Z"
+		},
+		{
+			"checksumSHA1": "n+ZKx3gMoBi4t0fN84vzz0r2uCM=",
+			"path": "github.com/hyperledger/fabric/common/attrmgr",
+			"revision": "99ca3f82dfc7ad9c220c19bba92692fd322cbfa2",
+			"revisionTime": "2018-10-17T07:29:47Z"
+		},
+		{
+			"checksumSHA1": "y8UGqcO/ZWyUDSrSy/ANg64vOvs=",
+			"path": "github.com/hyperledger/fabric/core/chaincode/lib/cid",
+			"revision": "99ca3f82dfc7ad9c220c19bba92692fd322cbfa2",
+			"revisionTime": "2018-10-17T07:29:47Z"
+		},
+		{
+			"checksumSHA1": "ZzWCzHsWRI/LAxhZYUMqVcIAsZQ=",
+			"path": "github.com/hyperledger/fabric/protos/msp",
+			"revision": "99ca3f82dfc7ad9c220c19bba92692fd322cbfa2",
+			"revisionTime": "2018-10-17T07:29:47Z"
+		},
+		{
+			"checksumSHA1": "DTy0iJ2w5C+FDsN9EnzfhNmvS+o=",
+			"path": "github.com/pkg/errors",
+			"revision": "2233dee583dcf88f3c8b22cb7a33f05a499800d8",
+			"revisionTime": "2018-10-08T04:53:15Z"
+		}
+	],
+	"rootPath": "certificates/go"
+}

@@ -1,0 +1,56 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "issuedOn": "2017-07-20T09:33:47.490752+00:00",
+    "id": "urn:uuid:4e7d75c5-281c-45de-93cc-3212b1349ee9",
+    "type": "Assertion",
+    "recipient": {
+        "identity": "mcallister@greenborough.org",
+        "type": "email",
+        "hashed": false
+    },
+    "recipientProfile": {
+        "publicKey": "ecdsa-koblitz-pubkey:mkwntSiQmc14H65YxwckLenxY3DsEpvFbe",
+        "name": "Mcallister Greenborough",
+        "type": [
+            "RecipientProfile",
+            "Extension"
+        ]
+    },
+    "verification": {
+        "publicKey": "ecdsa-koblitz-pubkey:msBCHdwaQ7N2ypBYupkp6uNxtr9Pg76imj",
+        "type": [
+            "MerkleProofVerification2017",
+            "Extension"
+        ]
+    },
+    "badge": {
+        "id": "urn:uuid:82a4c9f2-3588-457b-80ea-da695571b8fc",
+        "type": "BadgeClass",
+        "name": "Certificate of Accomplishment",
+        "description": "Lorem ipsum dolor sit amet, metur cu, expetenda moderatius neglegentur ei nam, suas dolor laudem eam an.",
+        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwJggg==",
+        "criteria": {
+            "narrative": "Nibh iriure ei nam, modo ridens neglegentur mel eu. At his cibo mucius."
+        },
+        "issuer": {
+            "id": "https://www.blockcerts.org/samples/2.0/issuer-testnet.json",
+            "type": "Profile",
+            "name": "University of Learning",
+            "url": "https://www.issuer.org",
+            "email": "contact@issuer.org",
+            "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUASUVORK5CYII=",
+            "revocationList": "https://www.blockcerts.org/samples/2.0/revocation-list-testnet.json"
+        },
+        "signatureLines": [
+            {
+                "jobTitle": "University Issuer",
+                "name": "Your signature",
+                "type": [
+                    "SignatureLine",
+                    "Extension"
+                ],
+                "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgg=="
+            }
+        ]
+    }
+}
